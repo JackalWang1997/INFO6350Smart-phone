@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.1)
+  - SwiftSpinner (2.2.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftSpinner
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftSpinner
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  SwiftSpinner: f9b59477fe107427f2b5b835497d6636fa167ede
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: e65c0fc3078af3ca2163eec37430e6e3e0888be3
+
+COCOAPODS: 1.10.1
